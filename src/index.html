@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>CipherText</title>
+    <meta name = "viewport" content = "width = device-width, user-scalable = no, initial-scale = 1.0">
+    <link rel = "stylesheet" href = "style.css">
+  </head>
+  <body>
+    <header>
+      <br>
+      <img id = logo src = "img/Sin título-1.jpg" style = "visibility: visible" class = "form_img">
+      <h2>CipherText</h2>
+      <div id = "contenedorPresentacion" style = "visibility: visible">
+          <h4>Cifra y descifra mensajes, para la privacidad del contenido.</h4>
+      </div>
+    </header>
+    <div class="start"><button id = "start" style = "visibility : visible">Comenzar!</button></div>
+    <section>
+      <div id = "contenedorPrincipal" style = "display:none" class = "principal">
+        <div><p>Ingresa el mensaje</p>
+          <input type = "text" id = "string">
+        </div>
+        <div><p>Define un valor numérico</p>
+          <input type = "number" min = "1" id = "offset">
+        </div>
+        <br>
+        <div>
+          <button id = "encode">Cifrado</button>
+          <button id = "decode">Descifrado</button>
+        </div>
+        <div><p>Salida del mensaje</p>
+          <textarea id = "viewResult" readonly></textarea>
+        </div>
+        <br>
+        <button value = "copy" id = "copy">Copiar</button>
+        <br>
+        <p>Enviar por:</p>
+        <a href = "https://web.whatsapp.com/" target = "_blank">
+          <img src = "img/icon_whattsapp.png" width = "50" height = "50" class = "icon_whattsapp">
+        </a>
+      </div>
+    </section>
+    <script src = "cipher.js"></script>
+    <script src = "index.js"></script>
+  </body>
+</html>

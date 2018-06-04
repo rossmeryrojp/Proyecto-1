@@ -1,0 +1,34 @@
+header {
+    background-color: #F30421;
+    padding-top: 0;
+  }
+  h1{
+    align-items: center;
+  }
+  h2{
+    text-align: center;
+    color:#ffffff;
+  }
+  .start {text-align: center;
+  }
+  h4{
+    background-color: #ffffff;
+    text-align: center;
+  }
+  body {
+      background-color: #ffffff;
+    }
+  .principal{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  .form_img {
+    width: 220px;
+    height: 150px;
+    display: block;
+    margin: auto;
+  }
+  .icon_whatsapp{
+    background-position: left;
+  }
