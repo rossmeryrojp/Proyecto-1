@@ -30,9 +30,7 @@ Utiliza un cifrado que proporciona privacidad para cada mensaje. Basado en el Ci
 Con un entorno fácil de usar.
 Proporciona además redireccionamiento a WhatsApp.
 
-![funcionalidad1](https://user-images.githubusercontent.com/39319360/40916207-8d14e350-67c4-11e8-8ae5-0bc2d241bb4a.png)
-
-![funcionalidad2](https://user-images.githubusercontent.com/39319360/40916231-9f87aff4-67c4-11e8-82f9-cbe99ea0f0e4.png)
+![funcionalidad1](https://user-images.githubusercontent.com/39319360/40916207-8d14e350-67c4-11e8-8ae5-0bc2d241bb4a.png) ![funcionalidad2](https://user-images.githubusercontent.com/39319360/40916231-9f87aff4-67c4-11e8-82f9-cbe99ea0f0e4.png)
 
 
 ## Decisiones de Diseño
