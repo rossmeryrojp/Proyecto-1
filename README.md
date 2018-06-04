@@ -16,7 +16,7 @@ personas (partícipes de la fiesta) puedan tener una interfaz para
 descifrarlo. Así que ahora te toca aplicar tus superpoderes.
 
 ## Introducción
-* Los principales usuarios de esta App son tanto nativos digitales e inmigrantes digitales.
+* Los principales usuarios de esta App son tanto nativos digitales como inmigrantes digitales.
 
 ![nativodigitalvsinmigrantedigital](https://user-images.githubusercontent.com/39319360/40916141-3db673dc-67c4-11e8-8dbe-88704569fa59.png)
 
