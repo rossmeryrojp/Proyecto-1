@@ -1,6 +1,4 @@
-# Proyecto-1
-
-CipherText
+# CipherText
 
 ## Preámbulo
 
@@ -18,6 +16,7 @@ descifrarlo. Así que ahora te toca aplicar tus superpoderes.
 ## Introducción
 * Los principales usuarios de esta App son tanto nativos digitales e inmigrantes digitales.
 
+![nativodigitalvsinmigrantedigital](https://user-images.githubusercontent.com/39319360/40916141-3db673dc-67c4-11e8-8dbe-88704569fa59.png)
 
 * El objetivo de estos usuarios en relación con el producto es la privacidad de sus comunicaciones, a través del cifrado de mensajes, que ha sido hasta ahora una de las técnicas más populares a la hora de proteger información.
 
@@ -26,6 +25,8 @@ descifrarlo. Así que ahora te toca aplicar tus superpoderes.
 Utiliza un cifrado que proporciona privacidad para cada mensaje. Basado en el Cifrado César conocido por ser un cifrado de sustitución.
 Con un entorno fácil de usar.
 Proporciona además redireccionamiento a WhatsApp.
+
+
 
 ## Decisiones de Diseño
 ![flujograma](flujograma.png)
