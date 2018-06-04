@@ -6,6 +6,8 @@ Está próxima la fecha del cumpleaños de tu flacx (novix) y estás organizando
 fiesta sorpresa. Para organizar la fiesta has creado un grupo de Whatsapp junto
 con amigos y familiares.
 
+![usuariowhatsapp](https://user-images.githubusercontent.com/39319360/40916190-6d90c10c-67c4-11e8-8d79-50ccccc1bed4.jpg)
+
 Un gran problema es que pones tu alarma para levantarte temprano, sin embargo
 (como supondrás) eso nunca sucede y tu flacx es quien termina apagando la alarma
 y "de casualidad" revisando tus mensajes. Debido a que es algo sorpresa, decides
@@ -20,11 +22,14 @@ descifrarlo. Así que ahora te toca aplicar tus superpoderes.
 
 * El objetivo de estos usuarios en relación con el producto es la privacidad de sus comunicaciones, a través del cifrado de mensajes, que ha sido hasta ahora una de las técnicas más populares a la hora de proteger información.
 
+![cifrado-cesar](https://user-images.githubusercontent.com/39319360/40916165-54db8886-67c4-11e8-8d71-0edb1f903a63.png)
+
 ## Funcionalidad
 
 Utiliza un cifrado que proporciona privacidad para cada mensaje. Basado en el Cifrado César conocido por ser un cifrado de sustitución.
 Con un entorno fácil de usar.
 Proporciona además redireccionamiento a WhatsApp.
+
 
 
 
