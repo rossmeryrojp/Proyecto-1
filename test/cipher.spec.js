@@ -15,8 +15,12 @@ describe('cipher', () => {
 
     });
   
-    it('debería retornar " " para " " con offset 27',()=>{
-      assert.equal(cipher.encode(27," ")," ")
+    it('debería retornar "C" para "A" con offset 28',()=>{
+      assert.equal(cipher.encode(28,"A"),"C")
+    });
+
+    it('debería retornar "c" para "a" con offset 28',()=>{
+      assert.equal(cipher.encode(28,"a"),"c")
     })
 
   });
@@ -31,8 +35,12 @@ describe('cipher', () => {
       assert.equal(cipher.decode(33, 'HIJKLMNOPQRSTUVWXYZABCDEFG '), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ ');
     });
 
-    it('debería retornar " " para " " con offset 27',()=>{
-      assert.equal(cipher.decode(27," ")," ")
+    it('debería retornar "A" para "C" con offset 28',()=>{
+      assert.equal(cipher.decode(28,"C"),"A")
+    });
+
+    it('debería retornar "a" para "c" con offset 28',()=>{
+      assert.equal(cipher.decode(28,"c"),"a")
     })
 
   });  

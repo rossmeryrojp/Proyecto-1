@@ -6,7 +6,6 @@ window.cipher = {
         let firstASCII = 0;
         let capitalASCII = 0;
         let lowerASCII = 0;
-        let spaceASCII = 0;
         for (let i = 0; i < string.length; i++) {
             // condicional para identificar espacio valor ASCII=32
             if (string[i].charCodeAt() !== 32) {
@@ -34,7 +33,6 @@ window.cipher = {
         let lastASCII = 0;
         let capitalASCII = 0;
         let lowerASCII = 0;
-        let spaceASCII = 0;
         for (let i = 0; i < string.length; i++) {
             // condicional para identificar espacio valor ASCII=32
           if (string[i].charCodeAt() !== 32) {
