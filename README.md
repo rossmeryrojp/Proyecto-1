@@ -28,6 +28,6 @@ Con un entorno fácil de usar.
 Proporciona además redireccionamiento a WhatsApp.
 
 ## Decisiones de Diseño
-
+![flujograma](flujograma.png)
 
 
