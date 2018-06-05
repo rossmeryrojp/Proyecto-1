@@ -34,6 +34,14 @@ Proporciona además redireccionamiento a WhatsApp.
 
 
 ## Decisiones de Diseño
+
+Empecé por un diagrama de flujo que plasma la interacción del usuario con la aplicación. Lo tome como un mapa (hoja de ruta) que me coloca en la posición de usuario, donde al recorrerla para obtener lo que busca, tendrá momentos que lo llevarán a tomar decisiones. Sin embargo estas no deben implicar complicación por lo que se le plantearán alternativas simples y agradables. 
+
 ![flujograma](flujograma.png)
 
+Entonces definí en la interfaz una intro para que la primera vista le permita al usuario tener clara la finalidad del producto.
+Para lograr esto pense en el detalle de emplear una imagen y una breve línea descriptiva de presentación.
 
+Establecí un color sólido porque aplicaciones de conectividad que brindan servicio de mensajería, tales como Facebook y WhatsApp tienen esa característica con el azul y verde respectivamente.
+
+Las razones sobre la cantidad y distribución de elementos como: casillas de texto y botones, fue en primera para evitar el uso del scroll y en segunda, para conservar la comodidad de no cambiar la orientación de visualizacion de vertical a horizontal en dispositivos.
