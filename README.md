@@ -35,7 +35,7 @@ Proporciona además redireccionamiento a WhatsApp.
 
 ## Decisiones de Diseño
 
-Empecé por un diagrama de flujo que plasma la interacción del usuario con la aplicación. Lo tome como un mapa (hoja de ruta) que me coloca en la posición de usuario, donde al recorrerla para obtener lo que busca, tendrá momentos que lo llevarán a tomar decisiones. Sin embargo estas no deben implicar complicación por lo que se le plantearán alternativas simples y agradables. 
+Empecé por un diagrama de flujo que plasma la interacción del usuario con la aplicación. Lo tome como un mapa (hoja de ruta) que me coloca en la posición de usuario, donde al recorrerla para obtener lo que busca, tendrá momentos que lo llevarán a tomar decisiones. Sin embargo estas no deben implicar complicaciones por lo que se le plantearán alternativas simples y agradables. 
 
 ![flujograma](flujograma.png)
 
@@ -45,3 +45,5 @@ Para lograr esto pense en el detalle de emplear una imagen y una breve línea de
 Establecí un color sólido porque aplicaciones de conectividad que brindan servicio de mensajería, tales como Facebook y WhatsApp tienen esa característica con el azul y verde respectivamente.
 
 Las razones sobre la cantidad y distribución de elementos como: casillas de texto y botones, fue en primera para evitar el uso del scroll y en segunda, para conservar la comodidad de no cambiar la orientación de visualizacion de vertical a horizontal en dispositivos.
+
+![depositphotos_50076803-stock-illustration-mobile-gadgets-in-hands](https://user-images.githubusercontent.com/39319360/40973634-9fe52474-688a-11e8-88ee-3e9e9bd1afc0.jpg) ![hands-holding-mobile-devices](https://user-images.githubusercontent.com/39319360/40973658-b057cf14-688a-11e8-8e7f-8a3df2bfd538.jpg)
